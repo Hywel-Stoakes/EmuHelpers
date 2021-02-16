@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "hstoakes@unimelb.edu.au",
            comment = c(ORCID = "0000-0002-5543-8750"))
-Description: This package provides support to the EmuRTools Shiny package
+Description: This suite of functions provides support to the EmuRTools Shiny package.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
